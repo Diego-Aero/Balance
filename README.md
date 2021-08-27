@@ -1,1 +1,2 @@
 # Balance
+El objetivo de este programa es calcular un pago mímino mensual de una deuda que proporcione un balance igual a cero al acabar un año en el que al mismo tiempo dicha deuda se está incrementando debido a unos intereses. Para ello, emplearemos un método de bisección. Previamente, se ha elaborado un programa de prueba donde se ve más fácilmente qué es cada término que vamos a emplear y además se ha incluido una forma de resolverlo más sencilla que no proporciona un balance cero al final pero sí un balance negativo, por lo que la deuda queda saldada.
